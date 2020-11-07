@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+    <string name="app_name">PoseEstimationDemo</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            PoseEstimation For Mobile
+
+
+        ]]>
+    </string>
+</resources>
